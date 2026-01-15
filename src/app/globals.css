@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@theme {
+  --color-primary-orange: #F97316;
+  --color-primary-blue: #106EB0;
+  --color-primary-gray: #33303E;
+  --color-second-gray: #4E4B59;
+  --color-gray-phone: #F4F4F4;
+  --color-txt-gray: #7A7786;
+
+
+  
+}
+:root {
+  --bg-hero: url("/bg-hero.jpg");
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
